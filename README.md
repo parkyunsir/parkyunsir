@@ -1,5 +1,11 @@
 ## Hi there 👋
-![z](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) <!-- 자바 -->
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!-- 파이썬 -->
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!-- 파이썬 -->
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) <!-- html -->
+![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) <!-- css -->
+![]( <!-- html -->
+
 <!--
 **parkyunsir/parkyunsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
