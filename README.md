@@ -43,94 +43,29 @@
 
 <h3 align="center">💻 Projects 💻</h3>
 <div align="center">
-  <strong>실시간 채팅 서비스</strong><br>
-  WebSocket 기반 실시간 통신 구현<br>
-  <sub>HTML · CSS · JavaScript · Bootstrap</sub><br>
-  <a href="https://github.com/yourname/project1">GitHub</a> · <a href="https://project-demo.com">Demo</a>
+  <strong>I-CARE</strong><br>
+  부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼<br>
+  <sub>Spring Boot · React · MySQL</sub><br>
+  <a href="https://github.com/orgs/Capstone-ICARE/repositories">GitHub</a>
+  <br><br>
+
+  <strong>Travvelcome</strong><br>
+  제주도 혼자 여행 특화 AI 가이드 플랫폼<br>
+  <sub>Spring Boot · MySQL</sub><br>
+  <a href="https://github.com/orgs/Travvelcome/repositories">GitHub</a>
+  <br><br>
+
+  <strong>여기덕</strong><br>
+  대학 주변 맛집 추천 플랫폼<br>
+  <sub>Spring Boot · React · MySQL</sub><br>
+  <a href="https://github.com/parkyunsir/YeoGiDuk">GitHub</a> · <a href="https://project-demo.com">Demo</a>
   <br><br>
   
-  <strong>대학 정보 플랫폼</strong><br>
-  대학 정보를 비교하고 탐색할 수 있는 서비스<br>
-  <sub>HTML · CSS · JavaScript</sub><br>
-  <a href="https://github.com/yourname/project2">GitHub</a> · <a href="https://project-demo.com">Demo</a>
-  <br><br>
-
-  <h3 align="center">💻 Projects 💻</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="left">
-          <h4>Project One</h4>
-          <p>
-            여기에 프로젝트 한 줄 설명을 넣기
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Role-FE-333333?style=flat-square" />
-            <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-333333?style=flat-square" />
-          </p>
-          <p>
-            <a href="#">GitHub</a> · <a href="#">Demo</a>
-          </p>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="left">
-          <h4>Project Two</h4>
-          <p>
-            여기에 프로젝트 한 줄 설명을 넣기
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Role-FE-333333?style=flat-square" />
-            <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-333333?style=flat-square" />
-          </p>
-          <p>
-            <a href="#">GitHub</a> · <a href="#">Demo</a>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <div align="left">
-          <h4>Project Three</h4>
-          <p>
-            여기에 프로젝트 한 줄 설명을 넣기
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Role-FE-333333?style=flat-square" />
-            <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-333333?style=flat-square" />
-          </p>
-          <p>
-            <a href="#">GitHub</a> · <a href="#">Demo</a>
-          </p>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div align="left">
-          <h4>Project Four</h4>
-          <p>
-            여기에 프로젝트 한 줄 설명을 넣기
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Role-FE-333333?style=flat-square" />
-            <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-333333?style=flat-square" />
-          </p>
-          <p>
-            <a href="#">GitHub</a> · <a href="#">Demo</a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-- 실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스 '웨덕' <br>
-- 대학 주변 맛집 추천 플랫폼 '여기덕' <br>
-- 부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼 'I-CARE' <br>
-- 제주도 혼자 여행 특화 AI 가이드 서비스 'Travvelcome' <br>
+  <strong>웨덕</strong><br>
+  실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스<br>
+  <sub>Python</sub><br>
+  <a href="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-14/tree/master">GitHub</a>
+  <br><br>  
 </div>
 
 
@@ -141,20 +76,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <a href="https://www.notion.so/2495ecee751280319df4d1523e1109b4">
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  </a>
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
 <br>
