@@ -60,12 +60,14 @@
   <sub>Spring Boot · React · MySQL</sub><br>
   <a href="https://github.com/parkyunsir/YeoGiDuk">GitHub</a> · <a href="https://project-demo.com">Demo</a>
   <br><br>
-  
-  <strong>웨덕</strong><br>
+
+  <div style="background: #F5F7FF; padding: 18px 20px; border-radius: 16px; border: 1px solid #DDE3F0; max-width: 520px;">
+    <strong style="font-size: 16px;">웨덕</strong><br>
   실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스<br>
   <sub>Python</sub><br>
   <a href="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-14/tree/master">GitHub</a>
-  <br><br>  
+  <br><br> 
+  </div>
 </div>
 
 
