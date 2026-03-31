@@ -36,13 +36,13 @@
 </div>
 
 
-<br<hr><br>
+<br><br>
 
 
 <h3 align="center">💻 Projects 💻</h3>
 <div align="center">
   <strong>I-CARE</strong><br>
-  부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼<br><
+  부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼<br>
   <sub>Spring Boot · React · MySQL</sub><br>
   <a href="https://github.com/orgs/Capstone-ICARE/repositories">GitHub</a>
   <br><br><br>
@@ -67,7 +67,7 @@
 </div>
 
 
-<br<hr><br>
+<br><br>
 
 
 <h3 align="center">🪪 Certification 🪪</h3>
@@ -82,7 +82,7 @@
 </div>
 
 
-<br<hr><br>
+<br><br>
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -96,7 +96,7 @@
 </div>
 
 
-<br<hr><br>
+<br><br>
 
 
 <h3 align="center">📫 Contact 📫</h3>
