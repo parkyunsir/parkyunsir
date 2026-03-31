@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <a href="https://www.notion.so/2495ecee751280319df4d1523e1109b4">
     <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-  </a>&nbsp
+  </a>👈&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
@@ -102,12 +102,12 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://rodesi.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white" /> 👆
-  </a>&nbsp
+    <img src="https://img.shields.io/badge/Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>👈&nbsp
   <a href="qdt1030@gmail.com">
     <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 👈
-  </a>&nbsp
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>👈&nbsp
 </div>
 
 
