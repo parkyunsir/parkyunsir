@@ -39,14 +39,17 @@
 <br>
 
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">💻 Projects 💻</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+- 실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스 '웨덕' <br>
+- 대학 주변 맛집 추천 플랫폼 '여기덕' <br>
+- 부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼 'I-CARE' <br>
+- 제주도 혼자 여행 특화 AI 가이드 서비스 'Travvelcome' <br>
 </div>
 
+
 <br>
+
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -82,14 +85,6 @@
 </div>
 
 
-![Park Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkyunsir&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyunsir&layout=compact)
-
-## Proejects
-- 실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스 '웨덕'
-- 대학 주변 맛집 추천 플랫폼 '여기덕'
-- 부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼 'I-CARE'
-- 제주도 혼자 여행 특화 AI 가이드 서비스 'Travvelcome'
 
 
 ## Certification
