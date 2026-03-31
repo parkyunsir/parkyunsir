@@ -42,8 +42,8 @@
 <h3 align="center">💻 Projects 💻</h3>
 <div align="center">
   <strong>I-CARE</strong><br><br>
-  부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼<br><br>
-  <sub>Spring Boot · React · MySQL</sub><br><br>
+  부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼<br><
+  <sub>Spring Boot · React · MySQL</sub><br>
   <a href="https://github.com/orgs/Capstone-ICARE/repositories">GitHub</a>
   <br><br><br>
 
@@ -59,8 +59,8 @@
   <a href="https://github.com/parkyunsir/YeoGiDuk">GitHub</a> · <a href="https://project-demo.com">Demo</a>
   <br><br><br>
 
-  <strong>웨덕</strong><br><br>
-  실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스<br><br>
+  <strong>웨덕</strong><br>
+  실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스<br>
   <sub>Python</sub><br>
   <a href="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-14/tree/master">GitHub</a>
   <br><br><br>
@@ -72,12 +72,12 @@
 
 <h3 align="center">🪪 Certification 🪪</h3>
 <div align="center">
-  <strong>SQLD</strong><br><br>
-  제 52회 SQL 개발자 (SQLD) 자격증 취득 (2024.04.05) <br><br>
+  <strong>SQLD</strong><br>
+  제 52회 SQL 개발자 (SQLD) 자격증 취득 (2024.04.05)
   <br><br><br>
   
-  <strong>정보처리기사</strong><br><br>
-  2026년 정기 기사 1회 필기 합격 (2026.03.11) <br><br>
+  <strong>정보처리기사</strong><br>
+  2026년 정기 기사 1회 필기 합격 (2026.03.11)
   <br><br><br>
 </div>
 
