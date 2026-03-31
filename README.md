@@ -72,49 +72,63 @@
 <br>
 
 
+<h3 align="center">🪪 Certification 🪪</h3>
+<div align="center">
+  <strong>SQLD</strong><br>
+  제 52회 SQL 개발자 (SQLD) 자격증 취득 (2024.04.05) <br>
+
+  <strong>정보처리기사</strong><br>
+  2026년 정기 기사 1회 필기 합격 (2026.03.11) <br>  
+  <br><br>
+
+  <strong>Travvelcome</strong><br>
+  제주도 혼자 여행 특화 AI 가이드 플랫폼<br>
+  <sub>Spring Boot · MySQL</sub><br>
+  <a href="https://github.com/orgs/Travvelcome/repositories">GitHub</a>
+  <br><br>
+
+  <strong>여기덕</strong><br>
+  대학 주변 맛집 추천 플랫폼<br>
+  <sub>Spring Boot · React · MySQL</sub><br>
+  <a href="https://github.com/parkyunsir/YeoGiDuk">GitHub</a> · <a href="https://project-demo.com">Demo</a>
+  <br><br>
+  
+  <strong>웨덕</strong><br>
+  실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스<br>
+  <sub>Python</sub><br>
+  <a href="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-14/tree/master">GitHub</a>
+  <br><br>  
+</div>
+
+
+<br>
+
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <a href="https://www.notion.so/2495ecee751280319df4d1523e1109b4">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  </a>&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+
 <br>
+
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
-  </a>
+  <a href="https://rodesi.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FF5544?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>&nbsp
   <a href="qdt1030@gmail.com">
     <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp
 </div>
 
-
-
-
-## Certification
-- d
-- d
-
-## Tech Stack
-
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) <!-- C -->
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) <!-- linux -->
-
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) <!-- django -->
-![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) <!-- flask -->
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) <!-- mysql -->
-
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) <!-- html -->
-![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) <!-- css -->
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) <!-- javascript -->
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) <!-- bootstrap -->
 
 <!--
 **parkyunsir/parkyunsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
