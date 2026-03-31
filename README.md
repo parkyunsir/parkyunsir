@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkyunsir&show_icons=true&theme=radical)
+![Park Yunseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkyunsir&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkyunsir&layout=compact)
 
 ## Proejects
 - 실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스 '웨덕'
