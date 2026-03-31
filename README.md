@@ -54,6 +54,79 @@
   <sub>HTML · CSS · JavaScript</sub><br>
   <a href="https://github.com/yourname/project2">GitHub</a> · <a href="https://project-demo.com">Demo</a>
   <br><br>
+
+  <h3 align="center">💻 Projects 💻</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left">
+          <h4>Project One</h4>
+          <p>
+            여기에 프로젝트 한 줄 설명을 넣기
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/Role-FE-333333?style=flat-square" />
+            <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-333333?style=flat-square" />
+          </p>
+          <p>
+            <a href="#">GitHub</a> · <a href="#">Demo</a>
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left">
+          <h4>Project Two</h4>
+          <p>
+            여기에 프로젝트 한 줄 설명을 넣기
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/Role-FE-333333?style=flat-square" />
+            <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-333333?style=flat-square" />
+          </p>
+          <p>
+            <a href="#">GitHub</a> · <a href="#">Demo</a>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="left">
+          <h4>Project Three</h4>
+          <p>
+            여기에 프로젝트 한 줄 설명을 넣기
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/Role-FE-333333?style=flat-square" />
+            <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-333333?style=flat-square" />
+          </p>
+          <p>
+            <a href="#">GitHub</a> · <a href="#">Demo</a>
+          </p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="left">
+          <h4>Project Four</h4>
+          <p>
+            여기에 프로젝트 한 줄 설명을 넣기
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/Role-FE-333333?style=flat-square" />
+            <img src="https://img.shields.io/badge/Stack-HTML%20%7C%20CSS%20%7C%20JS-333333?style=flat-square" />
+          </p>
+          <p>
+            <a href="#">GitHub</a> · <a href="#">Demo</a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 - 실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스 '웨덕' <br>
 - 대학 주변 맛집 추천 플랫폼 '여기덕' <br>
 - 부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼 'I-CARE' <br>
