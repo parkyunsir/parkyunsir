@@ -61,12 +61,17 @@
   <a href="https://github.com/parkyunsir/YeoGiDuk">GitHub</a> · <a href="https://project-demo.com">Demo</a>
   <br><br>
 
-  <div style="background: #F5F7FF; padding: 18px 20px; border-radius: 16px; border: 1px solid #DDE3F0; max-width: 520px; line-height: 1.6;">
+  <table>
+    <tr>
+      <td align="center" style="padding: 16px; border: 1px solid #DDE3F0; border-radius: 12px;">
+        
      <strong style="font-size: 16px;">웨덕</strong><br><br>
   실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스<br><br>
   <sub>Python</sub><br>
   <a href="https://github.com/2023-CodewithDuksung/2023-CodeWithDS-14/tree/master">GitHub</a>
-  </div>
+        </td>
+    </tr>
+  </table>
 </div>
 
 <br>
