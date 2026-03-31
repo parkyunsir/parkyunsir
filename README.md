@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
@@ -41,6 +43,17 @@
 
 <h3 align="center">💻 Projects 💻</h3>
 <div align="center">
+  <strong>실시간 채팅 서비스</strong><br>
+  WebSocket 기반 실시간 통신 구현<br>
+  <sub>HTML · CSS · JavaScript · Bootstrap</sub><br>
+  <a href="https://github.com/yourname/project1">GitHub</a> · <a href="https://project-demo.com">Demo</a>
+  <br><br>
+  
+  <strong>대학 정보 플랫폼</strong><br>
+  대학 정보를 비교하고 탐색할 수 있는 서비스<br>
+  <sub>HTML · CSS · JavaScript</sub><br>
+  <a href="https://github.com/yourname/project2">GitHub</a> · <a href="https://project-demo.com">Demo</a>
+  <br><br>
 - 실시간 기상 데이터를 활용한 사용자 최적화 데일리 코디 추천 서비스 '웨덕' <br>
 - 대학 주변 맛집 추천 플랫폼 '여기덕' <br>
 - 부모 자녀 관계 향상을 위한 챗봇 및 2인 동작 인식 플랫폼 'I-CARE' <br>
